@@ -1,0 +1,6 @@
+id|name|age|email|city
+1|Brandon Rice|27|brandonrice@example.com|Newport
+2|Tiffany Lopez|42|tiffany.lopez88@example.org|Port Ericstad
+3|James Rivera|33|james.rivera@example.com|Lake Ericaberg
+4|Angela Griffin|55|angela.griffin@example.net|Mckenziechester
+5|Jonathan Hall|24|jonathan.hall@example.com|South Mark
